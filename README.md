@@ -165,10 +165,9 @@ Need help? Found a bug? Have suggestions?
 
 **⭐ Star this repository if you found it helpful! ⭐**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Shashank Bahuguna]
 
 © 2025 WeatherNow. All Rights Reserved.
 
-[⬆ Back to Top](#-weathernow---professional-weather-forecast-application)
 
 </div>
